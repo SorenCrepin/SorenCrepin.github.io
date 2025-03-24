@@ -8,60 +8,47 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2021 – 2024`
+**Unilasalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
+Elève ingénieur en 1er années
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
+`2024`
+Bac Générale, mention bien, Sacré coeur Amiens
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+## Expériences 
 
-## Expériences
+`2025` **Projet d’étude – préciser le thème du projet**
 
-`20XX` **Projet d’étude – préciser le thème du projet**
-
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe de 2 étudiants_
+* Création d'un jeu de l'awalé en C(editeur de code, code C)
+* création d'un tiroire multifonction (impression 3D, découpeuse laser, modélisation 3D)
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2019` **CAUE, secteur de l'architecture,  Amiens**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Stage –
+* missions en rapport avec l'architecture (réalisation de plan, rencontre de responsables, analyse de chantier, de terrain réalisations)
 
-`20XX` **Association, description de l’asso., taille**
+`2025` **CAJ Rivery, description de l’asso., taille**
 
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+* réalisation de taches pour la mairie de Rivery(participation a la journée de la banque alimentaire, participation au Ludy day)
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
-
+* LV1 à préciser : niveau très avancés(niveau B2)
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* VS Code
+* Onshape
+* Virtual Box
 
-Autres
-* Autres diplômes ou permis spéciaux
 
 ## Centres d’intérêt
 
 Loisirs 1
-* Description 
-* Description 
+* impression 3D
 
-Loisirs 1
-* Description 
-* Description 
+Loisirs 2
+* dessin 
