@@ -11,7 +11,7 @@ hero_image_ratio: is-1by1
 # Sören Crépin
 Elève en cursus ingénieur a Unilasalle Amiens
 
-Disponible a partire de 18h pour tout renseignement.
+Disponible a partir de 18h pour tout renseignement.
 
 [Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
 
