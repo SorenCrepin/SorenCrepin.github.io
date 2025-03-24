@@ -8,8 +8,8 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Sören Crépin
-Elève en cursuses ingénieur a Unilasalle Amiens
+Sören Crépin
+Elève en cursus ingénieur a Unilasalle Amiens
 
 Disponible XX mois à partir de Date
 
@@ -17,5 +17,5 @@ Disponible XX mois à partir de Date
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
-Permis B, voiture(a venirës)
+Permis B, voiture
 
